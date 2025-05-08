@@ -65,6 +65,7 @@ describe("CustomButton component states", () => {
     expect(customButtonComponent).toHaveClass(ButtonState.clicked);
   });
 
+  /*
   test("This test should fail for my github aciton training", ()=>{
     expect(2+22).toBe(999)
   })
@@ -72,6 +73,7 @@ describe("CustomButton component states", () => {
   test("This test should also fail for my github aciton training", ()=>{
     expect(2+23).toBe(999)
   })
+    */
 });
 
 //it("", () => {});
